@@ -18,6 +18,8 @@
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-15 at 3 57 23 PM" src="https://github.com/user-attachments/assets/49a1223d-8c6e-4f02-ae81-c9fed65ad5a5" />
+
 
 Practical frequency of Oscillation =
 
