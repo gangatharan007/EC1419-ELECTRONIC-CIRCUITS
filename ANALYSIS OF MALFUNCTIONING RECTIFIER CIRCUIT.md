@@ -9,7 +9,8 @@
 
 
 ## GRAPHS
-<img width="1600" height="719" alt="WhatsApp Image 2026-05-30 at 11 02 34 AM" src="https://github.com/user-attachments/assets/b4e12f7a-2466-4cdc-9c86-e90e428b1b94" />
+<img width="1600" height="358" alt="WhatsApp Image 2026-05-30 at 11 05 58 AM" src="https://github.com/user-attachments/assets/a31d5665-9e94-45c4-ba3a-338532fddc69" />
+
 
 
 
